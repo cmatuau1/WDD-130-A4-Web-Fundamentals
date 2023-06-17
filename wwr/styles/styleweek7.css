@@ -148,6 +148,16 @@ h4{
     border-radius: 5px;
 }
 
+.Rates{
+    text-decoration: solid;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: #6f7364;
+    margin-bottom: 0;
+    margin-top: auto;
+    padding-bottom: 0;
+}
+
 .msg h2{
     color:black;
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
