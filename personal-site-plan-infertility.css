@@ -29,6 +29,7 @@ Fonts are separated by a | */
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
+
 #content {
   margin: 0 auto;
 }
@@ -67,6 +68,10 @@ nav a{
   color: white;
 }
 
+#element.style{
+  image: 100%;
+}
+
 #hero-msg h4{
   color: white;
   text-align: center;
@@ -78,6 +83,7 @@ nav a{
 
 main section{
   text-align: center;
+  text-shadow: #5D576B;
 }
 
 #background{
@@ -85,10 +91,6 @@ main section{
   background-color:#d9c2a3;
   grid-template-columns: 1/11;
   grid-template-rows: 4/9;
-}
-
-body{
-  background-color: #fcfbfb;
 }
 
 header{
@@ -249,9 +251,19 @@ footer p a:hover{
 footer .social img{
   padding-top: 15px;
 } 
+p{
+  text-indent: 10%;
+  range: center;
+}
+
+.img-life{
+  max-width: fit-content;
+
+}
 
 body{
-  background-color: #fcfbfb;
+  text-align: justify;
+  background-color: #FDE2FF;;
   font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
   margin: 0;
